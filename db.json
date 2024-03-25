@@ -1,0 +1,20 @@
+{
+    "usuario":[
+        {
+            "User":"alenka",
+            "Password":"alenka2004"
+        },
+
+        {
+            "User":"luana",
+            "Password":"luana2011"
+        }
+    ],
+    "turismo":[
+        {
+            "Imagen":"https://i.pinimg.com/564x/cf/c6/a6/cfc6a60ee183e3d10a9d50b076f4a54b.jpg",
+            "Descripcion":"HUACACHINA 4.5 ⭐⭐⭐⭐ TOUR: 38$ Anidada en medio de majestuosas dunas de arena en el desierto de Ica. Embárcate en un emocionante paseo en buggy sobre las dunas o aventúrate en el sandboarding para una dosis de adrenalina."
+        }
+        
+    ]
+}
