@@ -1,20 +1,4 @@
 {
-    "usuario":[
-        {
-            "User":"alenka",
-            "Password":"alenka2004"
-        },
-
-        {
-            "User":"maricielo",
-            "Password":"maricielo2003"
-        },
-
-        {
-            "User":"barbadillo",
-            "Password":"barbadillo20"
-        }
-    ],
     "turismo":[
         {
             "Imagen":"https://i.pinimg.com/564x/53/c2/97/53c297c5c9f32b592e0bc4de413e81f7.jpg",
