@@ -6,15 +6,34 @@
         },
 
         {
-            "User":"luana",
-            "Password":"luana2011"
+            "User":"maricielo",
+            "Password":"maricielo2003"
+        },
+
+        {
+            "User":"barbadillo",
+            "Password":"barbadillo20"
         }
     ],
     "turismo":[
         {
             "Imagen":"https://i.pinimg.com/564x/cf/c6/a6/cfc6a60ee183e3d10a9d50b076f4a54b.jpg",
-            "Descripcion":"HUACACHINA 4.5 ⭐⭐⭐⭐ TOUR: 38$ Anidada en medio de majestuosas dunas de arena en el desierto de Ica. Embárcate en un emocionante paseo en buggy sobre las dunas o aventúrate en el sandboarding para una dosis de adrenalina."
+            "Titulo":"HUACACHINA 4.5 ⭐⭐⭐⭐",
+            "Precio":"TOUR: 38$ ",
+            "Descripcion":"Anidada en medio de majestuosas dunas de arena en el desierto de Ica. Embárcate en un emocionante paseo en buggy sobre las dunas o aventúrate en el sandboarding para una dosis de adrenalina."
+        },
+        {
+            "Imagen":"https://grupogobesa.com/wp-content/gallery/parque-el-faro/PARQUE-EL-FARO1.jpeg",
+            "Titulo":"MALECON DE MIRAFLORES 4.7 ⭐⭐⭐⭐⭐",
+            "Precio":"TOUR: 10$ ",
+            "Descripcion":"Este icónico paseo marítimo te invita a disfrutar de impresionantes vistas al océano Pacífico mientras te sumerges en la energía vibrante de la ciudad."
         }
-        
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/55/87/c2/5587c2c828e4b10c72953901161e737c.jpg",
+            "Titulo":"PALLAY PUNCHU 4.2 ⭐⭐⭐⭐",
+            "Precio":"TOUR: 10$ ",
+            "Descripcion":"La montaña sagrada de los Andes Peruanos, te espera con su imponente belleza y misterio. Ubicada en la región de Cusco, esta majestuosa cumbre se eleva con orgullo, ofreciendo vistas panorámicas."
+        }
     ]
 }
