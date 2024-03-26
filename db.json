@@ -65,5 +65,61 @@
             "Precio":"TOUR:39$",
             "Descripcion":"Admira la grandeza del Coliseo, un icono del antiguo Imperio Romano. Sumérgete en su historia mientras exploras sus majestuosas ruinas. ¡Una experiencia que te transportará en el tiempo!"
         }
+    ],    
+    "iglesia":[
+        {
+            "Imagen":"https://i.pinimg.com/564x/0e/3f/26/0e3f26f8cdc542516f00eafbdf4bc7de.jpg",
+            "Titulo":"CRISTO REDENTOR 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:20$",
+            "Descripcion":"¡Siente la majestuosidad del Cristo Redentor! Con sus brazos abiertos sobre Río de Janeiro, este ícono te invita a la paz y la reflexión. ¡Descubre su grandeza ahora!"
+        },
+        {
+            "Imagen":"https://i.pinimg.com/564x/86/85/5a/86855a72dd8a54109569a9772b435485.jpg",
+            "Titulo":"IGLESIA SAN ANDRES 4.0⭐⭐⭐⭐",
+            "Precio":"TOUR:30$",
+            "Descripcion":"Esta joya arquitectónica te cautivará con sus vibrantes fachadas adornadas con relieves y colores vivos. ¡Sumérgete en la rica historia y la belleza única de este lugar sagrado!"
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/d9/8a/2e/d98a2e1c772ec5e290d7b00754a8c721.jpg",
+            "Titulo":"VIRGEN DEL PANECILLO 4.6⭐⭐⭐⭐",
+            "Precio":"TOUR:15$ ",
+            "Descripcion":"Situada en Quito, Ecuador, esta impresionante estatua de la Virgen María te recibe con sus brazos abiertos en lo alto de la colina del Panecillo."
+        }
+        ,
+        {
+            "Imagen":"https://i.pinimg.com/564x/2c/5e/d7/2c5ed73cd98ab3f6ebda880788bd5df6.jpg",
+            "Titulo":"PARROQUIA DE SAN MIGUEL 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:20$",
+            "Descripcion":"¡Sumérgete en la historia y la espiritualidad! Situada en San Miguel de Allende, México,  te cautivará con su arquitectura barroca y su encanto pintoresco."
+        }
+        ,
+        {
+            "Imagen":"https://queverenelmundo.com/wp-content/uploads/Iglesia-Sagrado-Corazon-Paris-1.jpg",
+            "Titulo":"BASILICA DEL SAGRADO CORAZON DE JESUS 5.0⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:25$",
+            "Descripcion":"Ubicada en Montmartre, París, esta majestuosa iglesia te invita a maravillarte con su arquitectura románica y su imponente cúpula."
+        }
+        ,
+        {
+            "Imagen":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/25/ae/5c/cathedral-lima-peru.jpg",
+            "Titulo":"CATEDRAL DE LIMA 4.7⭐⭐⭐⭐",
+            "Precio":"TOUR:10$",
+            "Descripcion":"En el corazón del centro histórico de la capital peruana, esta joya arquitectónica te sorprenderá con su imponente presencia y su rica historia."
+        }
+        ,
+        {
+            "Imagen":"https://wp.es.aleteia.org/wp-content/uploads/sites/7/2016/09/web-la-ermita-cali-valle-del-cauca_jorge-gutierrez-cc.jpg",
+            "Titulo":"CATEDRAL DE SAN BASILIO 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:23$",
+            "Descripcion":"¡Embárcate en un viaje hacia la maravilla arquitectónica ! Con sus cúpulas de colores brillantes y su diseño único, esta icónica iglesia ortodoxa te dejará sin aliento."
+        }
+        ,
+        {
+            "Imagen":"https://www.aciprensa.com/imagespp/turismo-religioso-27092023.jpg",
+            "Titulo":"BASILICA DE GUADALUPE 4.8⭐⭐⭐⭐⭐",
+            "Precio":"TOUR:28$",
+            "Descripcion":"¡Explora la devoción y la historia!Esta basílica te recibe con su imponente presencia y significado espiritual. Maravíllate con la icónica imagen de la Virgen de Guadalupe."
+        }
     ]
 }
